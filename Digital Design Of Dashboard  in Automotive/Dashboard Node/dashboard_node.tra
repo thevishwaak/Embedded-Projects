@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'dashboard_node.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "main.o" --strict --scatter "dashboard_node.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\dashboard_node.map" -o "dashboard_node.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'dashboard_node.axf'
+### ADS-LD Command File: 'dashboard_node.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'dashboard_node.lnp', Handle=0x000002D8
+### Writing '.lnp' file
+### ADS-LD Command file 'dashboard_node.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
