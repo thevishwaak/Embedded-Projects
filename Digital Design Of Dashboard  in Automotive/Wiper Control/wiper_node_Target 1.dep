@@ -1,0 +1,8 @@
+Dependencies for Project 'wiper_node', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4BB1C206)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\KeilARM\ARM\INC" -I "C:\KeilARM\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\wiper_main.c)(0x67F3C549)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\KeilARM\ARM\INC" -I "C:\KeilARM\ARM\INC\Philips" -o "wiper_main.o" --omf_browse "wiper_main.crf" --depend "wiper_main.d")
+I (C:\KeilARM\ARM\INC\Philips\lpc21xx.h)(0x4BB1C2C8)
+I (can.h)(0x67F3B02F)
+I (lcd.h)(0x67F11C02)
+I (fun.h)(0x67F49A54)
+F (..\left_indicator\debug.ini)(0x67EF58FD)()
