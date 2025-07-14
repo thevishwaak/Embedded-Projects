@@ -1,0 +1,13 @@
+dash.o: dash.c
+dash.o: C:\KeilARM\ARM\INC\Philips\lpc21xx.h
+dash.o: C:\KeilARM\ARM\RV31\INC\stdio.h
+dash.o: C:\KeilARM\ARM\RV31\INC\string.h
+dash.o: delay.h
+dash.o: types.h
+dash.o: lcd.h
+dash.o: can.h
+dash.o: i2c_defines.h
+dash.o: i2c.h
+dash.o: rtc.h
+dash.o: timer.h
+dash.o: peripherals.h

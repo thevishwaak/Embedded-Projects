@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "dash.o" --strict --scatter "dashboard.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\dashboard.map" -o "dashboard.axf"
