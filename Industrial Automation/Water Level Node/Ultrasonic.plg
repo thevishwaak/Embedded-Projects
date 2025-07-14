@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\v24ce4v4\ARM\Industrial Automation\Ult_Snsr Node\Ultrasonic.uvproj
+Project File Date:  06/10/2025
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+linking...
+Program Size: Code=6396 RO-data=32 RW-data=8 ZI-data=1280  
+FromELF: creating hex file...
+"Ultrasonic.axf" - 0 Error(s), 0 Warning(s).
